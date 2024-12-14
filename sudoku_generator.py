@@ -137,6 +137,8 @@ class SudokuGenerator:
         """
         Решает сетку Судоку с использованием метода backtracking.
 
+        Идею с методом backtracking взял с сайта https://medium.com/swlh/sudoku-solver-using-backtracking-in-python-8b0879eb5c2d
+        
         Используется для заполнения пустой сетки Судоку числами.
 
         Returns:
